@@ -3,11 +3,7 @@ Allows for globally numbered Definitions, Theorems, etc.
 
 Allows for compilation of subfiles and referencing of Theorems, etc. by using custom citations and references.
 
-Example PDF: https://drive.google.com/file/d/1RhTViesnDWg07kJuUAJ1CDqYahtzqYLo
-
-Source Code: https://typst.app/project/rJeB-bWl2aAzffB8YiYMew
-
-Example use
+Example
 ```
 #import "template.typ": *
 #show: sub_project
@@ -28,4 +24,9 @@ This is a citation
 ]
 ```
 ![image](https://github.com/matthiasGmayer/typst-math-template/assets/28257008/2445b5f5-138e-4d79-b795-e916b58e18d5)
+
+
+Example PDF: https://drive.google.com/file/d/1RhTViesnDWg07kJuUAJ1CDqYahtzqYLo
+
+Source Code: https://typst.app/project/rJeB-bWl2aAzffB8YiYMew
 
